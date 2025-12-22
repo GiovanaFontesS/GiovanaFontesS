@@ -1,8 +1,10 @@
-<!-- HEADER -->
+<!-- WAVE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:000000&height=180&section=header&text=Hi,%20I’m%20Giovana%20Fontes&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:000000&height=180&section=header"/>
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Giovana+Fontes"/>
+</p>
 
 <p align="center">
   <img height="160em"
