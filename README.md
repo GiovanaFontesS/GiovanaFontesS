@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-Software Engineering Student passionate about technology and programming!
+🎓 I'm a Software Engineering student at the University of Brasília (UnB), passionate about technology and programming.
 </p>
 
 <br clear="right"/>
